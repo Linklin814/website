@@ -1,39 +1,30 @@
 ---
 layout: post
-title: "Classic Sheet Pan Dinner"
+title: "Spinach & Ricotta Pasta"
 date: 2026-2-1
 ---
 
-# Classic Sheet Pan Dinner
+# Spinach & Ricotta pasta
 > **Ingredients**
-> 1 cooked turkey sausage<br>
-> 1/4 onion<br>
-> 1/4 red pepper<br>
-> 6 grape tomatoes<br>
-> 12 baby carrots<br>
-> 1 potato<br>
-> 1/2 sweet potato<br>
-> 2 tbsp olive oil<br>
-> 2 tbsp italitan seasoning<br>
-> 1 tbsp paprika<br>
-> 2 tsp garlic powder<br>
-> 1 tbsp red chilli flakes<br>
+> 1 cup pasta<br>
+> 1/3 cup ricotta<br>
+> 2 tbsp pasta water<br>
+> 1 handful spinach<br>
+> 1/2 tbsp black pepper<br>
+> 1 tsp garlic powder<br>
+> 1 tsp lemon juice<br>
+> 1 tsp onion powder<br>
+> 1 tbsp butter or olive oil<br>
+> a dash red chilli flakes (optional)<br>
 {: .admonition .info }
 
 ## Instructions
-1. Pre-heat oven to 400
-2. In a bowl, add carrots, and tomatoes
-3. chop pepper, onion, turkey sausage, potato and sweet potato lazily into 1 inch size pieces. add to bowl
-4. add oil and seasonings and mix evenly
-5. distribute evenly across a sheet pan
-6. cook until potatoes are soft. It should take around 15-25 mintues
-
-> **"Expert" Tip**
-> harder veg should be cut smaller than softer veg<br>
-> e.g. potatoes & carrots should be cut smaller than pepper slices to avoid burning
-{: .admonition .warn }
+1. cook pasta according to box, reserving pasta water before straining
+2. add ricotta, pasta water, lemon juice and seasonings
+3. stir until spinach has wilted
+4. optionally add protein (salmon, chicken, etc.)
 
 ## About This Recipe
-Lazy sheet pan dinners in the winter are so good. Throw this in the airfrier for 10 min (probably) at (uhhhhh maybe) 350 for it to be extra crispy. Really all you're looking or is for the potatoes to soften. The seasonings you use for this really don't matter, just add whatever you're in the mood for. Add vinegar, or lemon/lime juice for some acidity
+This is so genuinely one of my favourite recipes. it is SO GOOD. it's basically just adult mac & cheese. the starch in the pasta water helps the spinach wilt, without it the ricotta won't turn into a sauce.
 
-If you're replacing the turkey sausage for smaller, chicken sausages, use two instead of one. I recommend peeling at least the sweet potato, since the skin is tougher, but i promise it's not that deep if you don't.
+as always, all seasonings are optional and adjustable. italian seasoning does good in this and if it's too liquidy you can always boil off some of the water to help.
