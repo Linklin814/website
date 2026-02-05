@@ -5,6 +5,9 @@ date: 2026-2-1
 ---
 
 # Intro
-i LOVE soldering. At one of the places i worked, i had to solder HUNDREDS of wires together during my time there. i found some images of my work in my library, as well as some interesting choices other people made i found while fixing connections. 
+i LOVE soldering. At one of the places i worked, i had to solder HUNDREDS of wires together during my time there. i found some images of my work in my library.
+
+# Pictures
+
 
 
