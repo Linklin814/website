@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deconstructed Egg Fried Rice"
+title: "Eggs 'N' Rice"
 date: 2026-2-1
 ---
 
