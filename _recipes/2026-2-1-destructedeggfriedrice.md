@@ -4,7 +4,7 @@ title: "Eggs 'N' Rice"
 date: 2026-2-1
 ---
 
-# Deconstructed Egg Fried Rice
+# Eggs 'N' Rice
 > **Ingredients**
 > 2-3 eggs<br>
 > 1/2 cup frozen veggies (of your choice)<br>
