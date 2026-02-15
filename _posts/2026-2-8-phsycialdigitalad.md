@@ -4,7 +4,7 @@ title: "Physical Digital Ad"
 date: 2026-2-8
 ---
 
-## Intro
+# Intro
 
 One day at work last year, one of my coworkers brought in these physical digital advertisements. Apparently, the YMCA that he is on the board of recieved 9 of these trash electronics. he showed us one of them that he had already modified and had pushed the pilot episode of The Simpsons on it.
 
