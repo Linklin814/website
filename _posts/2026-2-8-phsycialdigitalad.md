@@ -22,7 +22,7 @@ my friends and i looked up the hardware on the device before actually plugging t
 
 by looking a little closer, you can see an exposed usb-c port. its insane to me that they just use a usb-c to do any of this. anyway, i took the advice of my coworker and plugged the ad into my laptop. i used my own usb-c to usb cord. sure enough it popped up as a usb device on my laptop!
 
-## My modifications
+# My modifications
 
 once i had the device plugged in, we downloaded a youtube video and pushed it to the device. the video that my friends and i landed on for pushing to the device is an AI video of will smith eating spaghetti. it is an incredibly old meme by now, but the video was perfect for this kind of cursed project. unfortunately, this caused the device registered as empty. however, with a little rescaling of the video size, the device was finally (correctly) on the device. 
 
