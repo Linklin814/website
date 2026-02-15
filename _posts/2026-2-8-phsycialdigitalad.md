@@ -25,4 +25,4 @@ once i had the device plugged in, we downloaded a youtube video and pushed it to
 # Pictures
 
 
-<img width="596" height="523" alt="image" src="/assets/IMG_3837.png" />
+<img width="596" height="523" alt="image" src="/assets/IMG_3837.jpeg" />
