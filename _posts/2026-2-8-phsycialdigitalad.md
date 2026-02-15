@@ -24,5 +24,5 @@ once i had the device plugged in, we downloaded a youtube video and pushed it to
 
 # Pictures
 
-<img width="5712" height="4284" alt="image" src="https://github.com/Linklin814/website/blob/master/assets/IMG_3837.jpeg" />
 
+<img width="596" height="523" alt="image" src="/assets/IMG_3837.png" />
