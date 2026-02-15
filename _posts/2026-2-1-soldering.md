@@ -10,4 +10,5 @@ i LOVE soldering. At one of the places i worked, i had to solder HUNDREDS of wir
 # Pictures
 
 
+<img width="596" height="523" alt="image" src="/assets/img_1424.jpeg" />
 
