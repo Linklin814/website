@@ -16,7 +16,7 @@ the device itself is an LCD attached to three buttons (play/pause, volume up and
 
 my friends and i looked up the hardware on the device before actually plugging the device into anything. it turns out the main microchip is some random company from china (unsurprising), but that the packaging itself is a service provided by a company
 
-<img width="596" height="523" alt="image" src="/assets/IMG_3838.jpeg" />
+<img width="596" height="523" alt="image" src="/assets/IMG_3839.jpeg" />
 
 ## The Software
 
@@ -26,4 +26,4 @@ by looking a little closer, you can see an exposed usb-c port. its insane to me 
 
 once i had the device plugged in, we downloaded a youtube video and pushed it to the device. the video that my friends and i landed on for pushing to the device is an AI video of will smith eating spaghetti. it is an incredibly old meme by now, but the video was perfect for this kind of cursed project. unfortunately, this caused the device registered as empty. however, with a little rescaling of the video size, the device was finally (correctly) on the device. 
 
-<img width="596" height="523" alt="image" src="/assets/IMG_3839.jpeg" />
+<img width="596" height="523" alt="image" src="/assets/IMG_3838.jpeg" />
