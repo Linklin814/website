@@ -27,7 +27,4 @@ date: 2026-5-18
 
 
 ## About This Recipe
-
-This recipe is one of my favourites. Honestly, i never measure any of my seasonings, so they're just estimates. I would eat a lemon like an orange if it wasn't so bad for my teeth, so this recipe might be on the more sour side. 
-
-To add protein, cook it as you desire (i prefer the airfrier) and add it to the top. I generally meal prep chicken, so I might defrost some, cut it up and add it on top. Salmon also does really well with this recipe. If you want to dress it up some more, add some chopped tomatoes, red onion, and paprika. This recipe is so quick and flavourful, i love it so much. There's a reason it's the first one i am adding to my webiste
+As a one person, i do not want to buy/cannot fimish condiments and I have learned they are usually pretty ridiculously easy to make. I do not measure anything ever, so this is just an estimate. add & substitute to your hearts desire. 
