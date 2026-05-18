@@ -11,11 +11,11 @@ date: 2026-5-18
 > 1 tbsp vinegar <br>
 > 1 tsp lemon juice<br>
 > 1 tsp lime juice<br>
-> salt to taste <br>
-> pepper to taste <br>
 > 1 Tsp garlic powder<br>
 > 1 Tsp onion powder<br>
-> 1 Tsp red chilli flakes (optional) <br>
+> salt to taste <br>
+> pepper to taste <br>
+> red chilli flakes to taste (optional) <br>
 {: .admonition .info }
 
 ## Instructions
