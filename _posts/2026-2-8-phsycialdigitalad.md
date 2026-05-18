@@ -8,7 +8,7 @@ date: 2026-2-8
 
 One day at work last year, one of my coworkers brought in these physical digital advertisements. Apparently, the YMCA that he is on the board of recieved 9 of these trash electronics. he showed us one of them that he had already modified and had pushed the pilot episode of The Simpsons on it.
 
-<img width="596" height="523" alt="image" src="/assets/IMG_3837.jpeg" />
+<img width="596" height="523" alt="image" src="/assets/ad/ad-front.jpeg" />
 
 ## The device
 
@@ -16,7 +16,7 @@ the device itself is an LCD attached to three buttons (play/pause, volume up and
 
 my friends and i looked up the hardware on the device before actually plugging the device into anything. it turns out the main microchip is some random company from china (unsurprising). apparently this unique style of advert must be popular because i found the company that made it, and this is what their business model is based on. they sell these electroncis as 
 
-<img width="596" height="523" alt="image" src="/assets/IMG_3839.jpeg" />
+<img width="596" height="523" alt="image" src="/assets/ad/ad-electronics.jpeg" />
 
 ## The Software
 
@@ -26,4 +26,4 @@ by looking a little closer, you can see an exposed usb-c port. its insane to me 
 
 once i had the device plugged in, we downloaded a youtube video and pushed it to the device. the video that my friends and i landed on for pushing to the device is an AI video of will smith eating spaghetti. it is an incredibly old meme by now, but the video was perfect for this kind of cursed project. unfortunately, this caused the device registered as empty. however, with a little rescaling of the video size, the device was finally (correctly) on the device. 
 
-<img width="596" height="523" alt="image" src="/assets/IMG_3838.jpeg" />
+<img width="596" height="523" alt="image" src="/assets/ad/ad-screen.jpeg" />
