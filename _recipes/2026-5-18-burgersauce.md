@@ -33,3 +33,5 @@ date: 2026-5-18
 In the last few years lots of restaurants have pushed "specialty sauce" recipes. 9 times out of 10 it just some thousand island recipe. That's what this is.
 
 I do not measure anything when i cook, so this is my best guess. Mess with the ratios to your prefence/availability. The ketchup and tomato paste are pretty interchangeable, but if you're using no tomato paste, add a tsp or so of sugar.
+
+The base of this recipe is mayo or plain greek yogurt. It doesn't matter what's used, but i recommend using at least some mayo, since it helps make the recipe creamier.
