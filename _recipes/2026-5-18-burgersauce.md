@@ -24,11 +24,6 @@ date: 2026-5-18
 ## Instructions
 1. its condiments, you should be able to figure this out
 
-> **"Expert" Tip**
-> mayo helps make the dressing creamier<br>
-{: .admonition .warn }
-
-
 ## About This Recipe
 In the last few years lots of restaurants have pushed "specialty sauce" recipes. 9 times out of 10 it just some thousand island recipe. That's what this is.
 
