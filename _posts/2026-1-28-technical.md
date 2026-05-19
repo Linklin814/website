@@ -12,7 +12,7 @@ The OLED screen rotates through two screens. The first screen displays the tempe
 This project started off as just an digital oven thermometer, since all I could find were generic analogue ones. But as I conducted market research, I realized it had a wider variety of uses. From 3D printing, to detecting power outages in deep freezers, this simple product can resolve a variety of problems.
 
 # Pictures
-<img width="1482" height="808" alt="image" src="https://github.com/user-attachments/assets/0f8a87d1-e10e-4875-a790-4835ec90e3d0" />
+<img width="596" height="523" alt="image" src="/assets/End-Effector/robot-arm.png" />
 
 
 # Specs
