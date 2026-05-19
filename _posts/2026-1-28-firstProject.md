@@ -14,7 +14,7 @@ I love soldering and have gotten much better since this first project many years
 
 # Pictures
 
-<img width="757" height="270" alt="image" src="https://github.com/user-attachments/assets/780ca5ba-a17d-413f-892f-c232bdd57e08" />
+<img width="596" height="523" alt="image" src="/assets/firstproj/first-solder-proj.png" />
 
 
 # Specs
